@@ -26,7 +26,7 @@ SECRET_KEY = 'x04v@6%yaph%q$s7!fn8=_+t(qrh-03^0(uwc5k6t31892s^2o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'pipapop.pythonanywhere.com']
 
 
 # Application definition
